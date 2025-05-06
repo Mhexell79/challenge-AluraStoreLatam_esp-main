@@ -44,7 +44,7 @@ Basada en los resultados del análisis para decidir qué tienda vender.
 bash
 Copiar
 Editar
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Mhexell79/AluraStoreLatam.git
 cd tu_repositorio
 ### Instala las dependencias:
 
